@@ -7,11 +7,9 @@
         "test": "jest"
     },
     "dependencies": {
-        "sequelize": "6.6.5",
-        "bcrypt": "latest"
+        "sequelize": "6.6.5"
     },
     "devDependencies": {
-        "sequelize": "6.6.5",
-        "bcrypt": "5.0.1"
+        "sequelize": "6.6.5"
     }
 }
