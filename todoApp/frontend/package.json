@@ -8,11 +8,11 @@
         "client": "npm run --prefix client start"
     },
     "dependencies": {
-        "react": "latest",
+        "react": "17.0.2",
         "webpack": "latest"
     },
     "devDependencies": {
         "react": "latest",
-        "eslint": "latest"
+        "eslint": "7.32.0"
     }
 }
