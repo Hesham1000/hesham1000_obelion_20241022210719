@@ -8,7 +8,7 @@
         "client": "npm run --prefix client start"
     },
     "dependencies": {
-        "react": "latest",
+        "react": "16.0.0",
         "webpack": "latest"
     },
     "devDependencies": {
